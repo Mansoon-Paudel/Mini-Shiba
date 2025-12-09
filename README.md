@@ -1,4 +1,6 @@
-# Mini Shiba Arcade 
+# Mini Shiba Arcade <img width="42" height="42" alt="favicon-48x48" src="https://github.com/user-attachments/assets/bf38982f-ccd6-4c6e-9196-4021103e643f" align="Center" />
+
+
 
 A tiny DIY arcade machine built using a **Raspberry Pi Zero 2W**, a joystick, and a single button.  
 Created for a school event with **6,000–8,000 attendees** to show that students can build real arcade hardware from scratch.
