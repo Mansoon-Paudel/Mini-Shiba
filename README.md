@@ -24,7 +24,7 @@ A small retro-style arcade that boots straight into a simple game Space-Shooter(
 - Wooden/Ply arcade body  
 - LEDs for decoration
 - HDMI cable to connect pi with dispaly
-- Basic wiring + power adapter  
+- Wiring + power adapter  
 
 ---
 Blueprint:
