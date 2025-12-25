@@ -27,6 +27,10 @@ A small retro-style arcade that boots straight into a simple game Space-Shooter(
 - Wiring + power adapter  
 
 ---
+Images taken througout the entire project
+https://drive.google.com/drive/folders/1Ql7LPo2HHq1XqScP5RJgjbgeD36iPXVn?usp=sharing
+
+---
 Blueprint:
 
 [Shiba model.pdf](https://github.com/user-attachments/files/23833709/Shiba.model.pdf)
