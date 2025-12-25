@@ -1,0 +1,21 @@
+[Unit]
+Description=shiiboard
+DefaultDependencies=no
+
+[Service]
+Type=simple
+KillSignal=SIGINT
+TimeoutStopSec=4
+Restart=on-failure
+StandardOutput=file:/home/pi/shiiboard/log.txt
+StandardError=file:/home/pi/shiiboard/log.txt
+SyslogIdentifier=shiiboard
+
+
+### Change the paths below to match yours
+WorkingDirectory=/home/pi/shiiboard
+ExecStart=/home/pi/shiiboard/run.py
+###
+
+[Install]
+WantedBy=sysinit.target
